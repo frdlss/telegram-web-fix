@@ -7,6 +7,9 @@
 
 ---
 
+<img width="915" height="829" alt="image" src="https://github.com/user-attachments/assets/6d388905-469a-402d-a5b7-5a75aec311bf" />
+
+
 ## ⚡ Быстрый старт
 
 1. 📥 Склонируйте репозиторий или **Code → Download ZIP** и распакуйте папку.
