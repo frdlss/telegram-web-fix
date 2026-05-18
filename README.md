@@ -1,4 +1,4 @@
-# 📱 Telegram Web Fix
+<img width="1587" height="955" alt="image" src="https://github.com/user-attachments/assets/14949d1b-2dfd-41d9-aa9f-94c0cdd28c5c" /># 📱 Telegram Web Fix
 
 Локально подбирает рабочий IP дата-центра Telegram и прописывает его в **`hosts`** для **[web.telegram.org](https://web.telegram.org)** (и доменов из `lists/telegram-hosts-domains.txt`). Без своего сервера и без смены системного прокси/VPN.
 
@@ -113,6 +113,7 @@
 ## 🛡️ Антивирусы и VirusTotal
 
 **В проекте нет вирусов, троянов и шпионского ПО.** Исходники открыты (MIT): только текстовые `.bat` / `.ps1`, списки IP и доменов. Отдельного `.exe` в репозитории **нет** — запускается штатный **`powershell.exe`** и **`cmd.exe`** из Windows.
+<img width="1587" height="955" alt="image" src="https://github.com/user-attachments/assets/f7580a22-3314-4db6-9f1c-8a514360af6d" />
 
 ### Что обычно проверяют на VirusTotal
 
