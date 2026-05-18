@@ -7,7 +7,7 @@
 
 ---
 
-<img width="915" height="829" alt="image" src="https://github.com/user-attachments/assets/6d388905-469a-402d-a5b7-5a75aec311bf" />
+<img width="912" height="820" alt="image" src="https://github.com/user-attachments/assets/d577bdeb-bad6-43f3-ae39-378f90d12d86" />
 
 
 ## ⚡ Быстрый старт
